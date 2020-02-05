@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FFF21C;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+h1:hover, .yallah:hover{
+  color: #FFF21C;
+  background-color: black;
+  }
+
+img {
+  height: 350px
+}
+
+.background-image1 {
+  background-image: url("images/Rahulfrontend1.png");
+  height: 350px;
+  background-position: center;
+  background-repeat: repeat-x;
+}
+
+.background-image1:hover {
+  background-image: url("images/me.png");
+  background-position: center;
+  background-repeat: repeat-x;
+}
+
+.b {
+  border-bottom: 4px solid;
+  padding-top: 4px;
+  border-top: 4px solid;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 0;
+  padding: 0 0 3 0;
+}
+
+p {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.yallah {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-weight: bold;
+  font-size: 150px;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.shane {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: black;
+}
+
+.shane:hover {
+  color: #FFF21C;
+  background-color: black;
+}
+
+ul li {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  font-size: 30px;
+  margin: 32px;
+}
+
+.fab {
+  text-decoration: none;
+  color: black;
+
+}
+
+.fab:hover {
+  color: #FFF21C;
+  border: 4px solid black;
+  background-color: black;
+}
+
+
+
+
